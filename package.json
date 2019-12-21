@@ -1,0 +1,24 @@
+{
+  "name": "my-awesome-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contowind/my-awesome-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contowind/my-awesome-library/issues"
+  },
+  "homepage": "https://github.com/contowind/my-awesome-library#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
