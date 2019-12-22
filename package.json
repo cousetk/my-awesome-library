@@ -1,6 +1,6 @@
 {
   "name": "my-awesome-library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A nice greeter",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
